@@ -1,3 +1,5 @@
+#1.wap to check the number is odd or even(take user input)
+
 try:
     user_input = eval(input("Enter a number to check if it is odd or even: "))
     if user_input%2==0:
