@@ -3,3 +3,11 @@
 2.wap to check if the student has scored 70% print "good luck" (take user input)
 
 3.wap to check which number is greater using if condition.
+
+4.wap to check if the given string has even length of character.
+
+5.wap to check if the given number is divisible by 5(take user input)
+
+6.wap to check if the given programming language is present in the list.
+
+7.wap to check eligibility to vote.(take age as input from user)
