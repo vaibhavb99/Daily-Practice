@@ -1,3 +1,5 @@
+-----------If condition programs--------------
+
 1.wap to check the number is odd or even(take user input)
 
 2.wap to check if the student has scored 70% print "good luck" (take user input)
@@ -11,3 +13,9 @@
 6.wap to check if the given programming language is present in the list.
 
 7.wap to check eligibility to vote.(take age as input from user)
+
+8.wap to check if the given number is positive. Take user input.
+
+9.wap to check if the given string is palindrome(take user input)
+
+10.wap to check if the first letter in the given string is consonant.
